@@ -1,0 +1,252 @@
+.iconos-redessociales
+{
+    width:20px;
+    margin:10px 5px;
+}
+.colorblanco
+{
+    color:white;
+
+}
+
+
+/*body{
+    background-image:url(https://i.imgur.com/B9YNk57.jpg) ;
+   
+}*/
+.tamañoimagenexperiencia
+{
+    width: 200px; height: 200px;
+}
+.cursiva
+{
+    font-style: italic;
+}
+.fondonote
+{
+    
+    background-image:url(https://i.imgur.com/B9YNk57.jpg);
+    background-color:rgb(100, 100, 100);
+    background-blend-mode: soft-light;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover
+    
+    
+    
+}
+
+.fondochip
+{
+    background-image:url(https://i.imgur.com/iOe4yiv.jpg);
+    background-position: center;
+    background-size: cover
+    
+}
+
+.margenFotoInicio
+{
+    text-align: center;
+  
+    margin-top: 200px;
+   
+}
+.margenTituloInicio
+{
+   
+    text-align: center;
+    
+   
+    margin-bottom: 10px;
+}
+.margenParrafoInicio
+{
+    
+    text-align: center;
+    margin-bottom: 500px;
+    
+    
+}
+
+
+.margensecciones
+{
+    
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-bottom: 10px;
+}
+
+.parrafoquiensoy
+{
+   
+    color: white;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    position: relative;
+    top: 150px;
+    left:400px ;
+}
+ .margenTituloQuienSoy
+ {
+    text-align: center;
+    margin-top: 200px;
+    
+     }
+ .margenParrafoQuienSoy
+ {
+    
+    text-align: center;
+    margin-top: 50px;
+     
+ } 
+ .margenFotoQuienSoy
+ {
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 100px;
+     margin-bottom: 400px;
+ }    
+
+.borde
+{
+border: 2px solid red;
+}
+
+.circular
+{
+    border-radius: 50%;
+}
+
+.margenFotoStoTomas
+{
+   text-align: center;
+   margin-top: 200px;
+   margin-left: 100px;
+    margin-bottom: 100px;
+}  
+
+.margenTextoStoTomas
+{
+   text-align: center;
+   
+   
+    margin-bottom: 100px;
+}  
+
+form
+{
+width: 450px;
+margin: auto;
+background: rgba(0, 0, 0, 0.836);
+padding: 10px 20px;
+box-sizing: border-box;
+margin-top: 20px;
+border-radius: 7px;
+
+}
+.colorform
+{
+    color:white;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+input,textarea
+{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+}
+
+textarea
+{
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+
+}
+#boton
+{
+    background-color: rgb(5, 5, 5);
+    color: white;
+    padding: 20px;
+
+}
+
+#boton:hover
+{
+cursor: pointer;
+}
+
+.margenFormContacto
+{
+   text-align: center;
+   margin-top: 100px;
+   
+    margin-bottom: 100px;
+}  
+.margenTituloContacto
+{
+    color: white;
+   text-align: center;
+   margin-top: 200px;
+   
+    
+} 
+.margenDatosContacto
+{
+    color: white;
+   text-align: center;
+   margin-top: 0%;
+   
+    margin-bottom: 0%;
+} 
+
+.margenTabla
+{
+    
+   text-align: center;
+   margin-top: 0%;
+   
+    margin-bottom: 10%;
+} 
+carousel-captarion 
+{
+    position:absolute;
+    top: 40px;
+    bottom:20px;
+    left:15%;
+    z-index: 10;
+    padding-top: 20px;
+    color: white;
+    text-align: left;
+}
+.margenRedSocialF
+{
+    
+   text-align: center;
+   margin-top: 0%;
+   margin-left:350px ;
+    margin-bottom: 10%;
+} 
+.margenRedSocialW
+{
+    
+   text-align: center;
+   margin-top: 0%;
+  
+    margin-bottom: 10%;
+} 
+
+.footer
+{
+    color: white;
+    bottom: 0;
+    position: fixed;
+}
